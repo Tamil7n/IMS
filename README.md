@@ -1,7 +1,7 @@
 # Inventory Management System
 
 ## Overview
-This Inventory Management System is a Windows Forms application built using C#. It provides functionalities for managing products, categories, users, and customers, along with user authentication and report generation using RDLC.
+This Inventory Management System is a Windows Forms application built using C#. It provides functionalities for managing products, categories, users, and customers, along with user authentication 
 
 ## Features
 - **User Authentication**: Secure login for administrators and customers.
@@ -9,7 +9,7 @@ This Inventory Management System is a Windows Forms application built using C#. 
 - **Category Management**: Manage product categories for better organization.
 - **User Management**: Manage users with different roles and permissions.
 - **Customer Login**: Separate login for customers to access the system.
-- **Reporting**: Generate and print reports using RDLC.
+
 
 ## Installation
 1. **Clone the repository**:
@@ -62,17 +62,12 @@ This Inventory Management System is a Windows Forms application built using C#. 
    - View Customer Orders
    - Customer Self-Registration and Management
 
-### 6. **Reports**
-   - Generate Inventory Reports using RDLC
-   - Export Reports to PDF/Excel
-   - Print Reports
-
 
 
 ## Dependencies
 - **.NET Framework**
 - **SQL Server**
-- **RDLC Report Viewer**
+
 
 
 
